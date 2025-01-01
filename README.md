@@ -1,10 +1,10 @@
 # Special Topic Latex
 
-This directory contains the latex code and the pdf file of my special topic work with the title: "Foundations of Financial Mathematics and Implementation of Models in Option Valuation". The whole 100 pages long text is in greek. <br>
+This directory contains the latex code and the pdf file of my special topic work with the title: "Foundations of Financial Mathematics and Implementation of Models in Option Valuation". The whole 100 pages long text is in greek. Conducted as part of the subject “Special Topics” in my university, this "book" expands on the article: Implementation and calibration of the Heston stochastic volatility model (see repository Heston_SV_Model) by including additional theory, rigorous proofs, and various implementations of models in topics such as market forecasting and numerical methods in derivatives pricing.<br>
 
 ## Abstract
 
-This repository contains a comprehensive exploration of financial mathematics, focusing on stochastic processes and their applications in modeling and analyzing financial instruments.
+This repository contains a comprehensive exploration of financial mathematics, focusing on stochastic processes and their applications in modeling and derivatives pricing.
 
 ### Chapter 1: Brownian Motion  
 We introduce the foundational concepts and properties of Brownian motion, along with related stochastic processes, including symmetric and scalar random walks. Advanced topics, such as the first passage time, the reflection principle, and the maximum properties of Brownian motion, are also discussed.
