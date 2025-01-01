@@ -1,6 +1,6 @@
 # Special Topic Latex
 
-This directory contains the latex code and the pdf file of my special topic work with the title: "Foundations of Financial Mathematics and Implementation of Models in Option Valuation". The whole 100 pages long text is in greek. Conducted as part of the subject “Special Topics” in my university, this "book" expands on the article: Implementation and calibration of the Heston stochastic volatility model (see repository Heston_SV_Model) by including additional theory, rigorous proofs, and various implementations of models in topics such as market forecasting and numerical methods in derivatives pricing.<br>
+This directory contains the latex code and the pdf file of my special topic work with the title: "Foundations of Financial Mathematics and Implementation of Models in Option Valuation". The whole 100 pages long text is in greek. Conducted as part of the subject “Special Topics” at my university, this "book" expands on the article: Implementation and calibration of the Heston stochastic volatility model (see repository Heston_SV_Model) by including additional theory, rigorous proofs, and various implementations of models in topics such as market forecasting and numerical methods in derivatives pricing.<br>
 
 ## Abstract
 
