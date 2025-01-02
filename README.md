@@ -23,7 +23,6 @@ The final section includes the full code used throughout the thesis, offering pr
 
 ---
 ### Bibliography:
-### Bibliography
 
 1. Steven E. Shreve (2004). *Stochastic Calculus for Finance II Continuous Time Models*. Springer. [Link](https://link.springer.com/book/9780387401010)
 
